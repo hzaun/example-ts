@@ -1,0 +1,24 @@
+{
+  "name": "example-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fast-average-color/example-ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fast-average-color/example-ts/issues"
+  },
+  "homepage": "https://github.com/fast-average-color/example-ts#readme",
+  "devDependencies": {
+    "fast-average-color": "^7.0.1",
+    "typescript": "^4.5.4"
+  }
+}
