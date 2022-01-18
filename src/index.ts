@@ -1,4 +1,4 @@
-import FastAverageColor from 'fast-average-color';
+import * as FAC from 'fast-average-color'
 
-const fac = new FastAverageColor();
+const fac = new FAC();
 console.log(fac.getColor(null));
